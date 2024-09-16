@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is aHí
 ===========================================================================================================================
 
-Content creator | Website design | SEO | Affiliate | .Net | HTML | CSS | JavaScript | ChatGPT | Python | SQL | PowerBI | VBA
+Content Creator | Website Design | SEO | Affiliate | .Net | HTML | CSS | JavaScript | ChatGPT | Python | SQL | Power BI | VBA
 ----------------------------------------------------------------------------------------------------------------------------
 
 I'm based in Vietnam
